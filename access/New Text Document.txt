@@ -1,0 +1,2 @@
+Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript. Wikipedia
+HTML is not a programming language. As its name indicates (Hypertext Markup Language), it's a markup language used for creating and structuring content on the web.
